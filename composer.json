@@ -1,7 +1,7 @@
 {
-    "description": "",
+    "description": "A small Eel helper for Neos CMS with which you can format Dates localized",
     "type": "neos-plugin",
-    "name": "breadlesscode/localizeddate",
+    "name": "breadlesscode/neos-localized-date",
     "require": {
         "neos/flow": "*"
     },
