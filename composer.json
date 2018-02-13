@@ -3,7 +3,8 @@
     "type": "neos-plugin",
     "name": "breadlesscode/neos-localized-date",
     "require": {
-        "neos/flow": "*"
+        "neos/flow": "*",
+        "neos/eel": "*"
     },
     "autoload": {
         "psr-4": {
