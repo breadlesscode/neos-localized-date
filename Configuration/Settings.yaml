@@ -1,0 +1,7 @@
+Breadlesscode:
+  LocalizedDate:
+    defaultLocale: null
+Neos:
+  Fusion:
+    defaultContext:
+      'LocalizedDate': 'Breadlesscode\LocalizedDate\Eel\Helper\LocalizedDateHelper'

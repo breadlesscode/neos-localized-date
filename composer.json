@@ -1,0 +1,18 @@
+{
+    "description": "",
+    "type": "neos-plugin",
+    "name": "breadlesscode/localizeddate",
+    "require": {
+        "neos/flow": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Breadlesscode\\LocalizedDate\\": "Classes/"
+        }
+    },
+    "extra": {
+        "neos": {
+            "package-key": "Breadlesscode.LocalizedDate"
+        }
+    }
+}
